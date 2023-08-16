@@ -5,7 +5,7 @@ Sudoku is a timeless logic-based number puzzle that challenges players to fill a
 
 
 
-The Sudoku solver leverages the power of the backtracking algorithm, enabling it to methodically explore potential solutions while making informed choices at every step. This algorithmic approach, combined with a recursive strategy, allows the solver to intelligently test different values in each cell while upholding the integrity of the solution.
+The Sudoku solver uses a backtracking algorithm, enabling it to methodically explore potential solutions while making informed choices at every step. This algorithmic approach, combined with a recursive strategy, allows the solver to intelligently test different values in each cell while upholding the integrity of the solution.
 
 This application offers both a graphical user interface (GUI) and a text-based version.
 
